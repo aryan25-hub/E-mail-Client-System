@@ -1,6 +1,6 @@
 # Email Client System
 
-A modern, feature-rich email client built with React and Tailwind CSS.
+A modern, feature-rich email client built with React and Tailwind CSS to send and receive emails.
 
 ## Features
 - 📧 Email inbox management
@@ -20,4 +20,5 @@ A modern, feature-rich email client built with React and Tailwind CSS.
 - React
 - Tailwind CSS
 - Lucide React Icons
+
 
